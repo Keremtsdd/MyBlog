@@ -10,11 +10,6 @@ Blogda kendimi, eğitim aldığım okulu, bildiğim teknolojileri ve yaptığım
 - Öğrendiğim ve kullandığım teknolojiler
 - Projeler ve çalışmalar
 
-### 🔗 Sosyal Medya ve Bağlantılar
-
-- LinkedIn: [https://www.linkedin.com/in/kerem-ta%C5%9Fdemir-164337349/]  
-- Instagram: [https://www.instagram.com/keremttd/]
-
 ## 🛠 Teknolojiler
 
 - React
